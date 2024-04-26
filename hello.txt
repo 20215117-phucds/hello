@@ -1,3 +1,7 @@
 hello
 hello
+<<<<<<< HEAD
 hello
+=======
+helloooo
+>>>>>>> 155daca4794051105819f80cad1703ee746d38f7
